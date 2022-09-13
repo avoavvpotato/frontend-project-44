@@ -7,3 +7,5 @@
 <a href="https://asciinema.org/a/ohs63VXFkVPGlm2GpxyRrVY6o" target="_blank"><img src="https://asciinema.org/a/ohs63VXFkVPGlm2GpxyRrVY6o.svg" /></a>
 <p>Game find Devider</p>
 <a href="https://asciinema.org/a/dl50TCnFkN1wAqcgTkfptwM5j" target="_blank"><img src="https://asciinema.org/a/dl50TCnFkN1wAqcgTkfptwM5j.svg" /></a>
+<p>Game Progression</p>
+<a href="https://asciinema.org/a/yfSkvPlRbzsrIzt2CVakZwkvG" target="_blank"><img src="https://asciinema.org/a/yfSkvPlRbzsrIzt2CVakZwkvG.svg" /></a>
