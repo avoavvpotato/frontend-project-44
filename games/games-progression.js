@@ -18,7 +18,7 @@ const brainProgression = () => {
   const numberRandom = Math.floor(Math.random() * 11);
   const array = progression(numberRandom);
   const missinRandom = Math.floor(Math.random() * 10);
-  console.log(`Question: ${array.slice(0, missinRandom).join(' ')} ... ${array.slice(missinRandom + 1).join(' ')}`);
+  console.log(`Question: ${array.slice(0, missinRandom).join(' ')} .. ${array.slice(missinRandom + 1).join(' ')}`);
   let userResult = readlineSync.question('Your answer: ');
   const result = array[missinRandom];
   userResult = eval(userResult);
