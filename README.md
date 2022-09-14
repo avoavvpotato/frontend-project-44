@@ -9,3 +9,5 @@
 <a href="https://asciinema.org/a/dl50TCnFkN1wAqcgTkfptwM5j" target="_blank"><img src="https://asciinema.org/a/dl50TCnFkN1wAqcgTkfptwM5j.svg" /></a>
 <p>Game Progression</p>
 <a href="https://asciinema.org/a/yfSkvPlRbzsrIzt2CVakZwkvG" target="_blank"><img src="https://asciinema.org/a/yfSkvPlRbzsrIzt2CVakZwkvG.svg" /></a>
+<p>Game is Prime</p>
+<a href="https://asciinema.org/a/wa50jxudJ0qlXkoRo8M3TkFVZ" target="_blank"><img src="https://asciinema.org/a/wa50jxudJ0qlXkoRo8M3TkFVZ.svg" /></a>
