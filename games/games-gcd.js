@@ -4,7 +4,7 @@ import readlineSync from 'readline-sync';
 const devider = (num) => {
   const result = [];
   let i = 1;
-  while (i < num) {
+  while (i <= num) {
     if (num % i === 0) {
       result.push(i);
     }
