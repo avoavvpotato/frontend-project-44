@@ -21,7 +21,7 @@ const game = (func, expression) => {
       console.log('Correct!');
     } else if (games.userResult === games.result && i === 3) {
       console.log('Correct!');
-      console.log(`Congratulations, ${hi.userName}`);
+      console.log(`Congratulations, ${hi.userName}!`);
     } else if (games.userResult !== games.result) {
       console.log(`'${games.userResult}' is wrong answer ;(. Correct answer was '${games.result}'.`);
       console.log(`Let's try again, ${hi.userName}!`);
